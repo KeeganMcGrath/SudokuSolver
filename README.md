@@ -15,3 +15,5 @@ the dependent files.  Run Sudoku from the console using the following usage:
 
 java Sudoku \<infile\> [\<outfile\>] [--debug]
 
+This repo also contains four .txt files, two unsolved sudoku puzzles and 2 solutions to the unsolved puzzles.
+Use one of the unsolved puzzles as the infile and watch the magic happen!
